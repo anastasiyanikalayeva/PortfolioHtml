@@ -3,7 +3,7 @@ This repository contains a web-based portfolio showcasing the work and skills of
 Project Structure:
 + index.html: The main HTML file that serves as the entry point for the portfolio website.
 + initial.css: The CSS file used for styling the webpage.
-+ Anastasiya Nikalayeva - Creative Developer.pdf: A downloadable PDF that provides detailed information about Anastasiya Nikalayeva's experience and skills.
++ A downloadable PDF that provides detailed information about Anastasiya Nikalayeva's experience and skills.
 
 ## Features
 + Clean and simple design to highlight work and experience.
